@@ -1,0 +1,7 @@
+20240808	22:04:31	2cbf65d3-f043-4643-a35c-42e70eea5635	GET	undefined	/
+20240808	22:04:31	2c30fc54-539c-4c17-a132-384b0d238136	GET	undefined	/css/style.css
+20240808	22:04:59	aa7958ea-cb62-4780-8f99-bbb32aa17ad6	GET	undefined	/employees
+20240808	22:05:51	1a7d1a9f-b7a4-41d4-b869-888c14075669	POST	undefined	/employees
+20240808	22:06:44	2d1e2c42-743b-4334-9f7d-592f7e86aa3d	PUT	undefined	/employees
+20240808	22:07:03	e7ede448-8115-4983-b944-15e4433c301b	DELETE	undefined	/employees
+20240808	22:07:15	5f646f41-f821-4600-ba19-ba43a97b4d18	GET	undefined	/employees/1

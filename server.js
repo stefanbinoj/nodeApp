@@ -5,6 +5,7 @@ const errorHandler=require('./middleware/errorHandler')
 const cors = require('cors');
 const corOptions= require('./config/corsOption')
 const {logger} = require('./middleware/logEvent')
+const cookieParser=require('cookie-parser')
 const PORT = process.env.PORT || 3500;
 
 // Custom middleware Req
@@ -19,8 +20,11 @@ app.use(cors(corOptions))
 //for form data
 app.use(express.urlencoded({extended:false}))
 
+
 //for json data
 app.use(express.json())
+
+app.use(cookieParser())
 
 //serve css on static pages
 app.use('/',express.static(path.join(__dirname,'/public')))

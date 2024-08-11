@@ -14,3 +14,7 @@
 20240811	13:34:28	9a9116d6-1016-4caa-a699-9e78bbc9bec7	POST	undefined	/auth
 20240811	13:34:35	b910df2e-6841-44c9-9cb0-c5258110a09f	POST	undefined	/auth
 20240811	13:34:43	09cbecad-6722-4ab5-8df8-9dc87b33235a	POST	undefined	/auth
+20240811	17:01:49	8920179a-3569-46c4-84d3-26461c824dbc	POST	undefined	/auth
+20240811	17:02:54	82a9e84f-b734-44b5-a10c-f58ba9fdd384	POST	undefined	/auth
+20240811	17:03:47	47ebf394-546d-4985-883c-c813a3867176	GET	undefined	/employees
+20240811	17:03:57	040e49dc-02bd-44c2-afdc-852037a30679	GET	undefined	/employees
